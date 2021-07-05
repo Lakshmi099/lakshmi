@@ -1,7 +1,8 @@
 # lakshmi
 
 Trying my best to do
-*student application
-*studentdemo application
-*student junit test
-*studentdemo junit test
+
+1. student application
+2. studentdemo application
+3. student junit test
+4. studentdemo junit test
